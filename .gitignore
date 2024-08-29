@@ -1,0 +1,48 @@
+# Node.js
+node_modules
+package-lock.json
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs
+*.log
+yarn-debug.log*
+.yarn-integrity
+
+# TypeScript
+*.tsbuildinfo
+
+# Dist
+dist
+build
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# dotenv environment variables file
+.env
+
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# ALLURE
+allure-results
+allure-report
+test-results
